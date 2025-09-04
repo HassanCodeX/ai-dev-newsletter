@@ -22,3 +22,43 @@
 Visit [newsletter.hassancodex.store](https://newsletter.hassancodex.store) to subscribe
 
 ### Self-Hosted Deployment
+```
+git clone https://github.com/yourusername/ai-dev-newsletter.git
+cd ai-dev-newsletter
+./scripts/setup.sh
+docker-compose up -d
+```
+
+## 📚 Documentation
+
+- [📖 User Guide](docs/user-guide/)
+- [🔧 Development Setup](docs/development/)
+- [🚀 Deployment Guide](docs/deployment/)
+- [📡 API Reference](docs/api/)
+
+## 🛠 Tech Stack
+
+- **Backend**: FastAPI, Python 3.11+
+- **Database**: PostgreSQL, Redis
+- **AI Models**: GPT-4o, Claude-3.5-Sonnet
+- **Email**: AWS SES, SendGrid
+- **Frontend**: React, TypeScript
+- **Deployment**: Docker, Docker Compose
+
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- OpenAI for GPT models
+- Anthropic for Claude
+- The amazing developer community
+
+---
+
+**Built with ❤️ by Hassan CodeX**

@@ -23,7 +23,7 @@ Visit [newsletter.hassancodex.store](https://newsletter.hassancodex.store) to su
 
 ### Self-Hosted Deployment
 ```
-git clone https://github.com/yourusername/ai-dev-newsletter.git
+git clone https://github.com/HassanCodeX/ai-dev-newsletter.git
 cd ai-dev-newsletter
 ./scripts/setup.sh
 docker-compose up -d
